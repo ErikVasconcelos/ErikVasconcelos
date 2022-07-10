@@ -40,7 +40,7 @@ I have the objective of making my <b>career transition</b>, seeking to work in t
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="62px" height="22px" alt="figma-icon"/>
 
 
-<h6><i>⬆️ Obs: The tools and languages mentioned above are some of the main tools I'm learning in the full stack development course. This way they have other tools that are not listed here.</i></h6>
+<h6><i>⬆️ Obs: The tools and languages mentioned above are some of the main tools I am learning in the full stack development course. In this way, there are other tools that are not listed here.</i></h6>
 <br><br>
 
 ![ErikVasconcelos GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErikVasconcelos&theme=swift&show_icons=true)
