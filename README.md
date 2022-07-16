@@ -2,8 +2,10 @@
 
 <h3>Welcome to my bio, here I will talk a little about my trajectory and goals.</h3>
 
-Admirer of technology and student of <strong>full stack development</strong> by the Dev Club. I started in adolescence with some IT courses, but due to the demand I went to the industrial branch. I graduated in <b>industrial engineering</b> and have 7 years of experience in the industry.
-<br><br>
+<p>🏭 I graduated in <b>Industrial Engineering</b> and have 7 years of experience in the industry.</p>
+
+<p>🧑🏽‍💻 Admirer of technology and student of <strong>full stack development</strong> by the Dev Club. I started in adolescence with some IT courses, but due to the demand I went to the industrial branch.</p>
+<br>
 I have the objective of making my <b>career transition</b>, seeking to work in the area of full stack development (front, back-end and mobile). I seek to transform all my experiences and soft skills into opportunities, developing skills that can help me, my co-workers and the company.
 
 <h4>Connect with me:</h4>
