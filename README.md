@@ -5,7 +5,7 @@
 <p>🏭 Sou formado em <b>Engenharia Industrial</b> e atuo há 7 anos na indústria.</p>
 
 <p>💻 Admirador de tecnologia e estudante de <strong>desenvolvimento full stack</strong> pelo Dev Club. Comecei na adolescência com alguns cursos de informática, mas devido a demanda e necessidade financeira, fui para o ramo industrial.</p>
-<p>Tenho como objetivo trabalhar na área de desenvolvimento full stack e/ou em uma das áreas (front, back-end e mobile). Procuro transformar todas as minhas experiências e soft skills em oportunidades, desenvolvendo competências que possam ajudar no meu crescimento, dos meus colegas de trabalho e da respectiva empresa.</p>
+<p>Tenho como objetivo trabalhar na área de desenvolvimento full stack e/ou em uma das áreas: web/softwares (front, back-end e mobile). Procuro transformar todas as minhas experiências e soft skills em oportunidades, desenvolvendo competências que possam ajudar no meu crescimento, dos meus colegas de trabalho e da respectiva empresa.</p>
 
 <h4>Conecte-se comigo:</h4>
 
