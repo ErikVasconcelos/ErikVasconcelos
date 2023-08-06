@@ -2,9 +2,9 @@
 
 <h3>Bem vindos a minha bio, aqui vou falar um pouco da minha trajetória e objetivos 🎯.</h3>
 
-<p>🏭 Sou formado em <b>Engenharia Industrial</b> e atuo há 8 anos na indústria.</p>
+<p>🏭 Sou formado em <b>Engenharia Industrial (Produção)</b> e atuo há 8 anos na indústria.</p>
 
-<p>💻 Admirador da tecnologia, estudante de <strong>programação front-end e computação em nuvem (AWS - Amazom Web Services) pela Proz Educação e desenvolvimento full stack</strong> pelo Dev Club. Comecei na adolescência com alguns cursos de informática, redes etc. mas devido a demanda fui para o setor industrial.</p>
+<p>💻 Admirador da tecnologia, estudante de <strong>programação front-end e computação em nuvem (AWS - Amazom Web Services) pela Proz Educação e desenvolvimento full stack pelo Dev Club</strong>. Comecei na adolescência com alguns cursos de informática, redes etc. mas devido a demanda fui para o setor industrial.</p>
 <p>Tenho como objetivo atuar na área de programação, buscando oportunidades em uma das áreas da programação, sendo eleas: full stack, web/softwares (front, back-end e mobile). Possuo muita facilidade em aprender e juntamente a busca por conhecimento poderei atingir grandes resultados, transformando minhas experiências e soft skills em habilidades, desenvolvendo competências que possam ajudar no meu crescimento, dos meus colegas de trabalho e da respectiva empresa.</p>
 
 <h4>Conecte-se comigo:</h4>
