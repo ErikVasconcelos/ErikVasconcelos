@@ -4,8 +4,8 @@
 
 <p>🏭 Sou formado em <b>Engenharia Industrial</b> e atuo há 8 anos na indústria.</p>
 
-<p>💻 Admirador da tecnologia e estudante de <strong>desenvolvimento full stack</strong> pelo Dev Club. Comecei na adolescência com alguns cursos de informática, redes etc. mas devido a demanda fui para o setor industrial.</p>
-<p>Tenho como objetivo atuar na área de desenvolvimento full stack e/ou em uma das áreas: web/softwares (front, back-end e mobile). Possuo muita facilidade em aprender e juntamente com a busca por conhecimento poderei atingir grandes resultados, transformando minhas experiências e soft skills em oportunidades, desenvolvendo competências que possam ajudar no meu crescimento, dos meus colegas de trabalho e da respectiva empresa.</p>
+<p>💻 Admirador da tecnologia, estudante de <strong>programação front-end e computação em nuvem (AWS - Amazom Web Services) pela Proz Educação e desenvolvimento full stack</strong> pelo Dev Club. Comecei na adolescência com alguns cursos de informática, redes etc. mas devido a demanda fui para o setor industrial.</p>
+<p>Tenho como objetivo atuar na área de programação, buscando oportunidades em uma das áreas da programação, sendo eleas: full stack, web/softwares (front, back-end e mobile). Possuo muita facilidade em aprender e juntamente a busca por conhecimento poderei atingir grandes resultados, transformando minhas experiências e soft skills em habilidades, desenvolvendo competências que possam ajudar no meu crescimento, dos meus colegas de trabalho e da respectiva empresa.</p>
 
 <h4>Conecte-se comigo:</h4>
 
