@@ -20,6 +20,7 @@
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="72px" height="22px" alt="html-icon"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="62px" height="22px" alt="css-icon"/>
 <a target="_blank" href="https://www.javascript.com/"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="92px" height="22px" alt="javascript-icon"/></a>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/metabase_logo_icon_168103.png" width="72px" height="32px" alt="metabase-icon"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" width="52px" height="22px" alt="git-icon"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="72px" height="22px" alt="github-icon"/></p>
 <p>
@@ -31,7 +32,7 @@
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" width="122px" height="22px" alt="excel-icon"/>
 </p>
 
-<h6>Ferramentas em aprendizado 🚀</h6>
+<h6>Ferramentas para aprender 🚀</h6>
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="62px" height="22px" alt="react-icon"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" width="82px" height="22px" alt="typescript-icon"/>
