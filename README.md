@@ -4,7 +4,7 @@
 
 <p>🏭 Sou formado em <b>Engenharia Industrial (Produção)</b> e atuo há 9 anos na indústria.</p>
 
-<p>💻 Admirador da tecnologia e motivado pelo aprendizado contínuo, <strong>atualmente sou estudante de ciência de dados pela Escola DNC </strong>e também formado em programação front-end e conhecimentos em nuvem (AWS - Amazom Web Services) pela Proz Educação. Comecei na adolescência com alguns cursos de informática, redes etc. mas devido a demanda fui para o setor industrial.</p>
+<p>💻 Admirador da tecnologia e motivado pelo aprendizado contínuo. <strong>Atualmente, sou estudante de ciência de dados pela Escola DNC </strong>e, também, formado em programação front-end e conhecimentos em nuvem (AWS - Amazom Web Services) pela Proz Educação. Comecei na adolescência com alguns cursos de informática, redes, etc. mas devido a necessidade e demanda fui para o setor industrial.</p>
 <p>Tenho como objetivo atuar na área de engenharia de dados e desenvolvimento (programação). Possuo muita facilidade em aprender e juntamente a busca por conhecimento, poderei atingir grandes resultados, transformando minhas experiências e soft skills em habilidades, desenvolvendo competências que possam ajudar no meu crescimento, dos meus colegas de trabalho e da respectiva empresa.</p>
 
 <h4>Conecte-se comigo:</h4>
@@ -22,7 +22,8 @@
 <a target="_blank" href="https://www.javascript.com/"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="92px" height="22px" alt="javascript-icon"/></a>
 <img src="https://docs.webcapsule.io/assets/images/metabase-ar21-abb3b361bfba22256be39fca0f92414f.png" width="62px" height="22px" alt="metabase-icon"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" width="52px" height="22px" alt="git-icon"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="72px" height="22px" alt="github-icon"/></p>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="72px" height="22px" alt="github-icon"/>
+<img src="https://www.brq.com/wp-content/uploads/2023/07/power-apps-logo.webp" width="72px" height="22px" alt="powerapps-icon"/></p>
 <p>
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" width="82px" height="22px" alt="amazonaws"/>
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" width="72px" height="22px" alt="canva-icon"/>
@@ -30,6 +31,7 @@
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" width="75px" height="22px" alt="powerbi"/>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="75px" height="22px" alt="python"/>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" width="122px" height="22px" alt="excel-icon"/>
+<img src="https://www.paitgroup.com/hs-fs/hubfs/Power-Automate-22.png?width=465&height=149&name=Power-Automate-22.png" width="82px" height="22px" alt="powerautomate-icon"/>
 </p>
 
 <h6>Ferramentas para aprender 🚀</h6>
