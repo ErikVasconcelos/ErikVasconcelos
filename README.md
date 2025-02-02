@@ -11,9 +11,10 @@
 
 <a target="_blank" href="https://www.linkedin.com/in/erik-willams-matias-vasconcelos-443481121"/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="90px" height="22px" alt="linkedin-icon"/>
 
+<a target="_blank" href="https://github.com/ErikVasconcelos"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="90px" height="22px" alt="github-icon"/>
+
 <a target="_blank" href="https://instagram.com/erikwm.vasconcelos?igshid=YmMyMTA2M2Y="/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="90px" height="22px" alt="instagram-icon"/>
 
-<a target="_blank" href="https://github.com/ErikVasconcelos"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="90px" height="22px" alt="github-icon"/>
 <h2></h2>
 <h5>Ferramentas mais utilizadas ✔</h5>
 
