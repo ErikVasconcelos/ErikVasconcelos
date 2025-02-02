@@ -4,8 +4,8 @@
 
 <p>🏭 Sou formado em <b>Engenharia Industrial (Produção)</b> e atuo há 9 anos na indústria.</p>
 
-<p>💻 Admirador da tecnologia e motivado pelo aprendizado contínuo, <strong>atualmente sou estudante de ciência de dados pela Escola DNC </strong>e recém formado em programação front-end e conhecimentos em nuvem (AWS - Amazom Web Services) pela Proz Educação, iniciei um curso de programação full stack pela instituição Dev Club, mas tive que pausar por conta da rotina. Comecei na adolescência com alguns cursos de informática, redes etc. mas devido a demanda fui para o setor industrial.</p>
-<p>Tenho como objetivo atuar na área de ciências de dados ou programação, buscando oportunidades em análise, ciência ou engenharia de dados. Possuo muita facilidade em aprender e juntamente a busca por conhecimento, poderei atingir grandes resultados, transformando minhas experiências e soft skills em habilidades, desenvolvendo competências que possam ajudar no meu crescimento, dos meus colegas de trabalho e da respectiva empresa.</p>
+<p>💻 Admirador da tecnologia e motivado pelo aprendizado contínuo, <strong>atualmente sou estudante de ciência de dados pela Escola DNC </strong>e também formado em programação front-end e conhecimentos em nuvem (AWS - Amazom Web Services) pela Proz Educação. Comecei na adolescência com alguns cursos de informática, redes etc. mas devido a demanda fui para o setor industrial.</p>
+<p>Tenho como objetivo atuar na área de engenharia de dados e desenvolvimento (programação). Possuo muita facilidade em aprender e juntamente a busca por conhecimento, poderei atingir grandes resultados, transformando minhas experiências e soft skills em habilidades, desenvolvendo competências que possam ajudar no meu crescimento, dos meus colegas de trabalho e da respectiva empresa.</p>
 
 <h4>Conecte-se comigo:</h4>
 
