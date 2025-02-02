@@ -20,7 +20,7 @@
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="72px" height="22px" alt="html-icon"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="62px" height="22px" alt="css-icon"/>
 <a target="_blank" href="https://www.javascript.com/"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="92px" height="22px" alt="javascript-icon"/></a>
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/metabase_logo_icon_168103.png" width="72px" height="32px" alt="metabase-icon"/>
+<img src="https://docs.webcapsule.io/assets/images/metabase-ar21-abb3b361bfba22256be39fca0f92414f.png" width="62px" height="22px" alt="metabase-icon"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" width="52px" height="22px" alt="git-icon"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="72px" height="22px" alt="github-icon"/></p>
 <p>
